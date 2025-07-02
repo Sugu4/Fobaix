@@ -1,4 +1,4 @@
-# MT5 Forex Trading Bot
+**MT5 Forex Trading Bot**
 
 1. Technische Analyse & Mustererkennung
 Verwendete Indikatoren & Logik:
@@ -43,7 +43,7 @@ Beim Strategie Tester haben die Bots gut abgeschlossen, nach einem Jahr wurde mi
 
 ---
 
-## ⚠️ Wichtiger Hinweis
+**⚠️ Wichtiger Hinweis**
 
 > Diese Projekt dienen ausschließlich **zu Lern- und Forschungszwecken**.  
 > Es handelt sich **nicht um eine Finanzberatung** oder eine Aufforderung zum Handel.  
@@ -54,7 +54,7 @@ Ich übernehme **keine Haftung** für finanzielle Verluste, technische Fehler od
 
 ---
 
-## Voraussetzungen
+**Voraussetzungen**
 
 - MetaTrader 5 mit EUR/USD verfügbar
 - Ein Demokonto oder Livekonto bei einem MT5-kompatiblen Broker
@@ -62,7 +62,7 @@ Ich übernehme **keine Haftung** für finanzielle Verluste, technische Fehler od
 
 ---
 
-## Installation für ein Bot
+**Installation für ein Bot**
 
 1. Starte den **MetaEditor**
 2. Erstelle eine neue Datei im Ordner `Experts`, z. B. `EURUSD_Bot.mq5`
@@ -72,7 +72,7 @@ Ich übernehme **keine Haftung** für finanzielle Verluste, technische Fehler od
 
 ---
 
-## Lizenz
+**Lizenz**
 
 Dieses Projekt steht unter der **MIT-Lizenz**.  
 Die Nutzung erfolgt **ohne Garantie**, Haftung oder finanzielle Verpflichtung gegenüber dem Entwickler.
