@@ -77,3 +77,4 @@ Ich übernehme **keine Haftung** für finanzielle Verluste, technische Fehler od
 Dieses Projekt steht unter der **MIT-Lizenz**.  
 Die Nutzung erfolgt **ohne Garantie**, Haftung oder finanzielle Verpflichtung gegenüber dem Entwickler.
 
+---
